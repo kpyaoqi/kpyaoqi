@@ -1,6 +1,10 @@
 ## Welcome to my homepage 👋
+ 
+<a href="https://github.com/kpyaoqi/">
+  <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/?username=kpyaoqi&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=dracula&hide=contribs" />
+</a>
 
-![kpyaoqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpyaoqi&show_icons=true&theme=dracula&hide=contribs)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpyaoqi&layout=compact&theme=tokyonight&show_owner=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpyaoqi&layout=compact&theme=tokyonight&show_owner=true&locale=cn)
 
 ### 📫 如何联系我: 
   #### WeChat：YQ-SmileATT
