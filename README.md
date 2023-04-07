@@ -2,7 +2,7 @@
 
 ![kpyaoqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpyaoqi&show_icons=true&theme=dracula&hide=contribs)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpyaoqi&layout=compact&theme=tokyonight&show_owner=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kpyaoqi&repo=ebay-truffle-auction)](https://github.com/kpyaoqi/ebay-truffle-auction)
+
 
 <!--
 **kpyaoqi/kpyaoqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
