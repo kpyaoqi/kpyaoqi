@@ -1,6 +1,6 @@
 ## Welcome to my homepage 👋
 
-![kpyaoqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpyaoqi&show_icons=true&theme=dracula&hide=contribs)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpyaoqi&layout=compact&theme=tokyonight&show_owner=true)
+![kpyaoqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpyaoqi&show_icons=true&theme=dracula&hide=contribs)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpyaoqi&layout=compact&theme=tokyonight&show_owner=true)
 
 
 
