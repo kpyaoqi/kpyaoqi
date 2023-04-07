@@ -1,11 +1,4 @@
-### Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kpyaoqi&repo=github-readme-stats" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kpyaoqi&repo=convoychat" />
-</a>
+## Welcome to my homepage 👋
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpyaoqi&show_icons=true&theme=dracula&hide=issues,contribs)
 
