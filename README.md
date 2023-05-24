@@ -8,7 +8,10 @@
 
 ### 📫 如何联系我: 
   #### WeChat：YQ-SmileATT
-  #### Email：18312386077@163.com or 2136712851@qq.com or yaoqi2136712851@gmail.com
+  #### Email：
+     18312386077@163.com or 
+     2136712851@qq.com or 
+     yaoqi2136712851@gmail.com
 
 <!--
 **kpyaoqi/kpyaoqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
