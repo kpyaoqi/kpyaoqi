@@ -4,7 +4,7 @@
   <img width="450px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=kpyaoqi&show_icons=true&count_private=true&langs_count=3&locale=cn&theme=dracula&hide=contribs" />
 </a>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpyaoqi&layout=compact&theme=dracula&show_owner=true)
 
 个人博客地址：[kongpengyq.com](https://kongpengyq.com) 欢迎大家！
 
