@@ -7,7 +7,7 @@
 <br><br><br><br><br><br><br>
 
 ##  个人博客地址🔭
-[kongpengyq.com](https://kongpengyq.com) ------欢迎大家！
+[kpyaoqi.github.io](kpyaoqi.github.io) ------欢迎大家！
 
 ##  如何联系我🤔
   #### WeChat💬：YQ-SmileATT
