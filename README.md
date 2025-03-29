@@ -9,7 +9,6 @@
 ##  个人博客地址🔭
 [kpyaoqi.github.io](kpyaoqi.github.io) ------欢迎大家！
 
-### 接区块链项目开发、智能合约开发，需要的私我😄
 
 ##  如何联系我🤔
   #### WeChat💬：YQ-SmileATT
